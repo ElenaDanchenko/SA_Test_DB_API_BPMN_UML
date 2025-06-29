@@ -3,7 +3,7 @@
 [Скачать полное решение (PDF)](https://raw.githubusercontent.com/ElenaDanchenko/TEST_FOR_SA/main/Тестовое%20задание%20на%20позицию%20Системный%20аналитик_Данченко_Елена.pdf)
 
 --- 
-### EDR диаграмма (Entity-Relationship) для БД "ORDERS"
+### ERD диаграмма (Entity-Relationship) для БД "ORDERS"
 
 Основные таблицы: orders - таблица заказов, customers - таблица покупателей, items - товары, towns - справочник адресов.
 
