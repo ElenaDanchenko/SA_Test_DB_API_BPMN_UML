@@ -10,6 +10,7 @@
 ## Технологический стек
 - **СУБД**: PostgreSQL 16
 - **Средства разработки**:  DBeaver
+- **Инструменты для тестирования API:** Postman
     
 [**Скачать диаграмму** (PDF)](https://raw.githubusercontent.com/ElenaDanchenko/TEST_FOR_SA/blob/main/ERD.png)
 
