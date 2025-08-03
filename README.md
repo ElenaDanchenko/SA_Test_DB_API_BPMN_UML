@@ -28,7 +28,7 @@
 <details>
 <br>
 <summary>Sequence Diagram</summary>
-(https://github.com/user-attachments/assets/6193f4c8-b370-4a00-a7c6-cf8d1383dd88)
+<img width="812" height="812" alt="Интернет_магазин" src="https://github.com/user-attachments/assets/5b6cb1aa-33f4-4b45-b44d-b520d2a52f51" />
 </details>
 <br>
 <br>
