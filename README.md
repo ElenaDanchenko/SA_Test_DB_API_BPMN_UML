@@ -13,7 +13,7 @@
 - **Инструменты для тестирования API:** Postman
     
 <details>
-  <summary>ERD диаграмма</summary>
+  <summary>Просмотр ERD диаграммы</summary>
   <img width="1035" height="525" alt="ERD Diagram" src="https://github.com/user-attachments/assets/16345c7b-6b9e-42f7-8738-32d058592c09"/>
 </details>
 
@@ -26,7 +26,7 @@
 **Инструмент** Draw.io
 
 <details>
-	<summary>Sequence Diagram</summary>
+	<summary>Просмотр Sequence Diagram</summary>
 	<img width="725" height="1225" alt="ERD Diagram" src="https://github.com/user-attachments/assets/fdf5c982-921d-4217-99bb-460722c3de9f"/>
 </details>
 
@@ -40,11 +40,9 @@
 **Инструмент** StormBPMN
 
 <details>
-<br>
-<summary>Workflow</summary>
-(https://github.com/user-attachments/files/21565880/_._.1.pdf)
+	<summary>PDF Workflow</summary>
+	
 </details>
-<br>
 
 ---
 
