@@ -79,14 +79,6 @@
 curl \
 http://127.0.0.1:1234/v1/catalog
 
-### Пример запроса
-
-Используя `curl`:
-
-```bash
-curl \
-http://127.0.0.1:1234/v1/catalog
-
 {
   "catalog": [
     {
