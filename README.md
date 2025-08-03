@@ -41,7 +41,7 @@
 
 <details>
 	<summary> Скачать PDF Workflow</summary>
-	[https://github.com/user-attachments/files/21565956/bpmn.1.pdf](https://github.com/user-attachments/files/21565956/_._.1.pdf)
+	https://github.com/user-attachments/files/21565956/_._.1.pdf
 </details>
 
 ---
