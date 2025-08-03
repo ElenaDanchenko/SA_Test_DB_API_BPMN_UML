@@ -13,14 +13,13 @@
 - **Инструменты для тестирования API:** Postman
     
 <details>
-<br>
-<summary>ERD диаграмма</summary>
-<img width="1035" height="525" alt="test - public" src="https://github.com/user-attachments/assets/16345c7b-6b9e-42f7-8738-32d058592c09"/>
+  <summary>ERD диаграмма</summary>
+  <img width="1035" height="525" alt="ERD Diagram" src="https://github.com/user-attachments/assets/16345c7b-6b9e-42f7-8738-32d058592c09"/>
 </details>
-<br>
-<br>
---- 
-### Sequence Diagram (UML) для некоторых сценариев в разрезе работы интернет-магазина
+
+---
+
+### Sequence Diagram (UML) для сценария оформления заказа в интернет-магазине
 
 Рассмотрены следующие сценарии: просмотр витрины товаров, просмотр детального описания товара, добавление товара в корзину.
 
