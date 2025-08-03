@@ -41,7 +41,7 @@
 
 <details>
 	<summary>PDF Workflow</summary>
-	
+	[BPMN Диаграмма: Пополнение баланса мобильного телефона (PDF)](BPMN_пополнение_баланса_мобильного.pdf)
 </details>
 
 ---
