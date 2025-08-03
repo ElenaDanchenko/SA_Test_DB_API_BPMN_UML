@@ -26,12 +26,9 @@
 **Инструмент** Draw.io
 
 <details>
-<br>
-<summary>Sequence Diagram</summary>
-<img width="812" height="812" alt="Интернет_магазин" src="https://github.com/user-attachments/assets/5b6cb1aa-33f4-4b45-b44d-b520d2a52f51" />
+	<summary>Sequence Diagram</summary>
+	<img width="725" height="1225" alt="ERD Diagram" src="https://github.com/user-attachments/assets/fdf5c982-921d-4217-99bb-460722c3de9f"/>
 </details>
-<br>
-<br>
 
 ---
 
