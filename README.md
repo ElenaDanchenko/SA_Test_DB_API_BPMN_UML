@@ -15,7 +15,10 @@
 <details>
 <br>
 <summary>ERD диаграмма</summary>
+<img width="1035" height="525" alt="test - public" src="https://github.com/user-attachments/assets/16345c7b-6b9e-42f7-8738-32d058592c09"/>
 </details>
+<br>
+<br>
 --- 
 ### Sequence Diagram (UML) для некоторых сценариев в разрезе работы интернет-магазина
 
@@ -26,9 +29,10 @@
 <details>
 <br>
 <summary>Sequence Diagram</summary>
-
+(https://github.com/user-attachments/assets/6193f4c8-b370-4a00-a7c6-cf8d1383dd88)
 </details>
-
+<br>
+<br>
 --- 
 ### Workflow пополнения баланса мобильного счета с использованием банковского приложения, установленного на смартфоне (BPMN 2.0)
 
@@ -40,7 +44,7 @@
 <details>
 <br>
 <summary>Workflow</summary>
-[Тестовое _Пополнение баланса мобильного_ (1).pdf](https://github.com/user-attachments/files/21565880/_._.1.pdf)
+(https://github.com/user-attachments/files/21565880/_._.1.pdf)
 </details>
 <br>
 ---
