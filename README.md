@@ -12,7 +12,7 @@
 - **Средства разработки**:  DBeaver
 - **Инструменты для тестирования API:** Postman
     
-[**Скачать диаграмму** (PDF)](https://raw.githubusercontent.com/ElenaDanchenko/TEST_FOR_SA/blob/main/ERD.png)
+[**Скачать диаграмму** (PDF)](https://raw.githubusercontent.com/ElenaDanchenko/SA_Test_DB_API_BPMN_UML/blob/main/ERD.png)
 
 --- 
 ### Sequence Diagram (UML) для некоторых сценариев в разрезе работы интернет-магазина
