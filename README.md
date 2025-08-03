@@ -12,8 +12,10 @@
 - **Средства разработки**:  DBeaver
 - **Инструменты для тестирования API:** Postman
     
-[**Скачать диаграмму** (PDF)](https://raw.githubusercontent.com/ElenaDanchenko/SA_Test_DB_API_BPMN_UML/blob/main/ERD.png)
-
+<details>
+<br>
+<summary>ERD диаграмма</summary>
+</details>
 --- 
 ### Sequence Diagram (UML) для некоторых сценариев в разрезе работы интернет-магазина
 
@@ -21,7 +23,11 @@
 
 **Инструмент** Draw.io
 
-[**Скачать диаграмму** (PDF)](https://raw.githubusercontent.com/ElenaDanchenko/TEST_FOR_SA/blob/main/Интернет_магазин_Sequence_D.jpg)
+<details>
+<br>
+<summary>Sequence Diagram</summary>
+
+</details>
 
 --- 
 ### Workflow пополнения баланса мобильного счета с использованием банковского приложения, установленного на смартфоне (BPMN 2.0)
@@ -31,8 +37,11 @@
 
 **Инструмент** StormBPMN
 
-[**Скачать диаграмму** (PDF)](https://raw.githubusercontent.com/ElenaDanchenko/TEST_FOR_SA/blob/main/BPMN%20%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B0%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B0.pdf)
-
+<details>
+<br>
+<summary>Workflow</summary>
+[Тестовое _Пополнение баланса мобильного_ (1).pdf](https://github.com/user-attachments/files/21565880/_._.1.pdf)
+</details>
 ---
 ### Разработка REST API для реализации основных функций интернет-магазина: отображение витрины товаров, просмотр деталей товара и добавление товаров в корзину.
 
