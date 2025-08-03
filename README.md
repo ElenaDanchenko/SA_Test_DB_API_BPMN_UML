@@ -38,8 +38,6 @@
 Также описаны альтернативные потоки:  ошибка ввода ПИН-кода (3 попытки → блокировка), отмена операции на этапе ввода ПИН.
 
 **Инструмент** StormBPMN
-
-<details>
 <a href="https://github.com/ElenaDanchenko/SA_Test_DB_API_BPMN_UML/blob/main/BPMN%20%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B0%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%B0.pdf" download="название_файла_для_скачивания.pdf">Просмотр PDF Workflow</a>
 	
 </details>
