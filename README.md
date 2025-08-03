@@ -40,8 +40,8 @@
 **Инструмент** StormBPMN
 
 <details>
-	<summary>PDF Workflow</summary>
-	[BPMN_пополнение_баланса_мобильного.pdf](https://github.com/user-attachments/files/21565956/_._.1.pdf)
+	<summary> Скачать PDF Workflow</summary>
+	(https://github.com/user-attachments/files/21565956/bpmn.1.pdf)
 </details>
 
 ---
